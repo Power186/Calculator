@@ -1,2 +1,2 @@
 # Calculator
-## IntelliJ IDEA in editor calculator program.
+## IntelliJ IDEA console calculator program.
